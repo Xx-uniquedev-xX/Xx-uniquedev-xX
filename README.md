@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Xx-uniquedev-xX
-- 👀 I’m interested in web backends, vue js .
-- 🌱 I’m currently learning how to touch grass
-
-<!---
-Xx-uniquedev-xX/Xx-uniquedev-xX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @Xx-uniquedev-xX  
+- 💻 Backend developer working with Node.js, Vue.js, and AI integrations
+- 🔧 Currently building health tracking systems and experimenting with LLM workflows
+- 🌱 Learning to balance code and real life (work in progress)
+- 🏗️ Check out my AI Diary System - turning ADHD morning brain fog into actionable insights
